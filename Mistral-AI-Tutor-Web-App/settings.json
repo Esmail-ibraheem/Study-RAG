@@ -1,0 +1,16 @@
+{
+    "api_keys": {
+        "openai": "",
+        "mistral": "",
+        "together": ""
+    },
+    "ui_preferences": {
+        "theme": "light",
+        "show_explanations": true
+    },
+    "model_preferences": {
+        "default_model": "gpt4-o-mini",
+        "temperature": 0.7,
+        "max_tokens": 2000
+    }
+}
